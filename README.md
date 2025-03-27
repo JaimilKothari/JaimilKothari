@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaimilkothari&show_icons=true&locale=en&layout=compact" alt="jaimilkothari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaimilkothari&show_icons=true&locale=en" alt="jaimilkothari" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimilkothari&" alt="jaimilkothari" /></p>
