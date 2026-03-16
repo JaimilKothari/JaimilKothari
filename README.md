@@ -37,7 +37,7 @@
 <h2 align="left">Technical Skills</h2>
 
 <p><strong>Languages:</strong><br>
-Python, JavaScript, Java, C, SQL
+JavaScript, Python, Java, C, SQL
 </p>
 
 <p><strong>Web Development:</strong><br>
@@ -144,8 +144,8 @@ Git, GitHub, Selenium, Microsoft Office
 <p>
   LinkedIn:
   <a href="https://linkedin.com/in/jaimil-kothari" target="_blank">https://linkedin.com/in/jaimil-kothari</a><br>
-  GitHub:
-  <a href="https://github.com/JaimilKothari" target="_blank">https://github.com/JaimilKothari</a><br>
+  Medium:
+  <a href="https://medium.com/@jaimilkothari2003" target="_blank">https://medium.com/@jaimilkothari2003</a><br>
   Email:
   <a href="mailto:jaimilkothari2003@gmail.com">jaimilkothari2003@gmail.com</a>
 </p>
