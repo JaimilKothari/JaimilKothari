@@ -1,7 +1,7 @@
 <h1 align="left">Jaimil Kothari</h1>
 
 <p>
-  <strong>Software Development &amp; Data Analysis | Software Development • Web Development • Full-Stack Development • Data Analysis</strong>
+  <strong>Software Development &amp; Data Analysis | Web Development • Full-Stack Development</strong>
 </p>
 
 <p>
