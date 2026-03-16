@@ -143,7 +143,7 @@ Git, GitHub, Selenium, Microsoft Office
 
 <p>
   LinkedIn:
-  <a href="https://linkedin.com/in/jaimil-kothari" target="_blank">https://linkedin.com/in/jaimil-kothari</a><br>
+  <a href="linkedin.com/in/jaimil-kothari-b71444225" target="_blank">linkedin.com/in/jaimil-kothari-b71444225</a><br>
   Medium:
   <a href="https://medium.com/@jaimilkothari2003" target="_blank">https://medium.com/@jaimilkothari2003</a><br>
   Email:
