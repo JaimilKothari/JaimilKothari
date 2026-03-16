@@ -58,7 +58,7 @@ Git, GitHub, Selenium, Microsoft Office
 
 <hr>
 
-<h2 align="left">Selected Projects</h2>
+<h2 align="left">Projects</h2>
 
 <h3>Connect-Hub - ISP Plan Web Crawler &amp; Search Platform</h3>
 <p>
@@ -105,5 +105,5 @@ Git, GitHub, Selenium, Microsoft Office
   GitHub:
   <a href="https://github.com/JaimilKothari" target="_blank">https://github.com/JaimilKothari</a><br>
   Email:
-  <a href="mailto:jaimilkothari2003@gmail.com">jaimilkothari2003#gmail.com</a>
+  <a href="mailto:jaimilkothari2003@gmail.com">jaimilkothari2003@gmail.com</a>
 </p>
