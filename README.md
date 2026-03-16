@@ -1,75 +1,104 @@
-Jaimil Kothari
+<h1 align="left">Jaimil Kothari</h1>
 
-Software Development & Data Analysis | Full-Stack Development • Web Development • Data Analysis
+<p>
+  <strong>Software Development &amp; Data Analysis | Software Development • Web Development • Full-Stack Development • Data Analysis</strong>
+</p>
 
-Master of Applied Computing (MAC) – University of Windsor
-Bachelor of Engineering in Information Technology – Gujarat Technological University
+<p>
+  Master of Applied Computing (MAC) – University of Windsor<br>
+  Bachelor of Engineering in Information Technology – Gujarat Technological University
+</p>
 
-About Me
+<hr>
 
-I am a graduate student in Applied Computing with experience building full-stack applications and working with real-world datasets. My work focuses on designing scalable software systems, developing modern web applications, and analyzing data to extract useful insights.
+<h2 align="left">About Me</h2>
 
-I have experience working with both software engineering and data analysis, implementing web platforms, backend services, and data-driven applications. My projects involve full-stack development, database integration, and building tools that combine software development with analytical capabilities.
+<p>
+  I am a graduate student in Applied Computing with experience building full-stack applications and working with real-world datasets.
+  My work focuses on developing software solutions, creating modern web applications, and using data analysis to derive meaningful insights.
+</p>
 
-Areas of Interest
+<p>
+  I have worked on projects involving software development, full-stack web applications, database integration, and analytical tools.
+  I enjoy combining development and problem-solving skills to build practical and user-focused systems.
+</p>
 
-Software Development
-Web Development
-Full-Stack Development
-Data Analysis
+<p><strong>Areas of interest</strong></p>
 
-Technical Skills
-Languages
+<ul>
+  <li>Software Development</li>
+  <li>Web Development</li>
+  <li>Full-Stack Development</li>
+  <li>Data Analysis</li>
+</ul>
 
+<hr>
+
+<h2 align="left">Technical Skills</h2>
+
+<p><strong>Languages:</strong><br>
 Python, JavaScript, Java, C, SQL
+</p>
 
-Web Development
-
+<p><strong>Web Development:</strong><br>
 React.js, Node.js, Flask, HTML5, CSS3, Tailwind CSS, Bootstrap
+</p>
 
-Data & Analysis
+<p><strong>Data &amp; Analysis:</strong><br>
+Pandas, NumPy, Matplotlib, Power BI
+</p>
 
-Pandas, NumPy, Matplotlib
-
-Databases
-
+<p><strong>Databases:</strong><br>
 MySQL, MongoDB, Firebase Firestore
+</p>
 
-Tools
+<p><strong>Tools:</strong><br>
+Git, GitHub, Selenium, Microsoft Office
+</p>
 
-Git, GitHub, Selenium, Power BI, Microsoft Office
+<hr>
 
-Selected Projects
-Connect-Hub – ISP Plan Web Crawler & Search Platform
+<h2 align="left">Selected Projects</h2>
 
-Built a full-stack application that crawls ISP websites and extracts internet plan data.
+<h3>Connect-Hub - ISP Plan Web Crawler &amp; Search Platform</h3>
+<p>
+  Built a full-stack web application to crawl ISP websites and extract internet plan data using Java and Selenium.
+  Developed a searchable interface with React and TypeScript, including filtering, comparison, and autocomplete functionality.
+</p>
+<p>
+  Repository:
+  <a href="https://github.com/JaimilKothari" target="_blank">https://github.com/JaimilKothari</a>
+</p>
 
-Key Features
-• Web crawler built using Java and Selenium
-• Search interface developed with React and TypeScript
-• Implemented an in-memory inverted index for faster search
-• Added autocomplete functionality using Trie data structure
+<hr>
 
-Repository
-https://github.com/JaimilKothari
+<h3>Resume Insight Hub - Resume &amp; Job Analysis Platform</h3>
+<p>
+  Developed a resume analysis web application that compares resumes with job descriptions and generates skill match insights.
+  Integrated semantic analysis, keyword-based matching, resume parsing, and Firebase authentication for secure usage.
+</p>
+<p>
+  Repository:
+  <a href="https://github.com/JaimilKothari" target="_blank">https://github.com/JaimilKothari</a>
+</p>
 
-Resume Insight Hub – Resume & Job Analysis Platform
+<hr>
 
-Developed a web application that analyzes resumes and compares them with job descriptions.
+<h3>TripGlide - Travel Booking Platform</h3>
+<p>
+  Contributed to building a travel booking platform using React.js, Tailwind CSS, Flask API, and SQL.
+  Worked on frontend components, search filters, authentication, payment integration, and feature testing.
+</p>
 
-Key Features
-• Resume parsing from PDF and DOCX files
-• Semantic analysis using Google Gemini API
-• Keyword-based similarity scoring for job matching
-• Firebase authentication and database integration
+<hr>
 
-Repository
-https://github.com/JaimilKothari
+<h2 align="left">Contact</h2>
 
-Contact
-LinkedIn
-https://linkedin.com/in/jaimil-kothari
-GitHub
-https://github.com/JaimilKothari
-Email
-jaimilkothari2003@gmail.com
+<p>
+  LinkedIn:
+  <a href="https://linkedin.com/in/jaimil-kothari" target="_blank">https://linkedin.com/in/jaimil-kothari</a><br>
+  GitHub:
+  <a href="https://github.com/JaimilKothari" target="_blank">https://github.com/JaimilKothari</a><br>
+  Email:
+  <a href="mailto:jaimilkothari2003@gmail.com">jaimilkothari2003#gmail.com</a>
+</p>
