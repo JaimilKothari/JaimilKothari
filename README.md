@@ -58,7 +58,7 @@ Git, GitHub, Selenium, Microsoft Office
 
 <hr>
 
-<h2 align="left">Projects</h2>
+<h2 align="left">Selected Projects</h2>
 
 <h3>Student Burnout Risk Predictor — Demo Day</h3>
 <p>
