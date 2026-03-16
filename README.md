@@ -67,19 +67,19 @@ Git, GitHub, Selenium, Microsoft Office
 </p>
 <p>
   Repository:
-  <a href="https://github.com/JaimilKothari" target="_blank">https://github.com/JaimilKothari</a>
+  <a href="https://github.com/JaimilKothari/ConnectHub" target="_blank">https://github.com/JaimilKothari/ConnectHub</a>
 </p>
 
 <hr>
 
-<h3>Resume Insight Hub - Resume &amp; Job Analysis Platform</h3>
+<h3>Resume AI Analyser - Resume &amp; Job Analysis Platform</h3>
 <p>
   Developed a resume analysis web application that compares resumes with job descriptions and generates skill match insights.
   Integrated semantic analysis, keyword-based matching, resume parsing, and Firebase authentication for secure usage.
 </p>
 <p>
   Repository:
-  <a href="https://github.com/JaimilKothari" target="_blank">https://github.com/JaimilKothari</a>
+  <a href="https://github.com/JaimilKothari/ResumeAI-Analyzer" target="_blank">https://github.com/JaimilKothari/ResumeAI-Analyzer</a>
 </p>
 
 <hr>
