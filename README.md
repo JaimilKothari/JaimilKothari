@@ -89,6 +89,11 @@ Git, GitHub, Selenium, Microsoft Office
   Contributed to building a travel booking platform using React.js, Tailwind CSS, Flask API, and SQL.
   Worked on frontend components, search filters, authentication, payment integration, and feature testing.
 </p>
+<p>
+  Repository:
+  <a href="https://github.com/JaimilKothari/tripglide-travel-website" 
+    target="_blank">https://github.com/JaimilKothari/tripglide-travel-website</a>
+</p>
 
 <hr>
 
