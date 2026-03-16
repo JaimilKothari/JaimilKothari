@@ -60,6 +60,34 @@ Git, GitHub, Selenium, Microsoft Office
 
 <h2 align="left">Projects</h2>
 
+<h3>Student Burnout Risk Predictor — Demo Day</h3>
+<p>
+  Built an interactive burnout risk prediction demo using lifestyle inputs such as sleep, stress, activity, workload, and social engagement.
+  The project uses a multimodal machine learning model trained on StudentLife-style data and includes SHAP explainability to show the top factors influencing each prediction.
+</p>
+<p>
+  Repository:
+  <a href="https://github.com/JaimilKothari/student-burnout-risk-predictor" target="_blank">
+    https://github.com/JaimilKothari/student-burnout-risk-predictor
+  </a>
+</p>
+
+<hr>
+
+<h3>Library Seat Selection Agent-Based Model (ABM)</h3>
+<p>
+  Developed a professional Agent-Based Model using Python and the Mesa framework to simulate student seat-selection behavior in a university library.
+  The simulation analyzes how seat types and student preferences influence library utilization, satisfaction, and rejection rates.
+</p>
+<p>
+  Repository:
+  <a href="https://github.com/JaimilKothari/ABM-Library-Seat-Selection" target="_blank">
+    https://github.com/JaimilKothari/ABM-Library-Seat-Selection
+  </a>
+</p>
+
+<hr>
+
 <h3>Connect-Hub - ISP Plan Web Crawler &amp; Search Platform</h3>
 <p>
   Built a full-stack web application to crawl ISP websites and extract internet plan data using Java and Selenium.
@@ -93,6 +121,20 @@ Git, GitHub, Selenium, Microsoft Office
   Repository:
   <a href="https://github.com/JaimilKothari/tripglide-travel-website" 
     target="_blank">https://github.com/JaimilKothari/tripglide-travel-website</a>
+</p>
+
+<hr>
+
+<h3>College Data Analysis</h3>
+<p>
+  Worked on structured college and sports datasets using Pandas, NumPy, and Matplotlib to perform analysis and generate meaningful visual insights.
+  Built tables and visualizations to study academic, demographic, and cricket-related performance trends in a Jupyter Notebook environment.
+</p>
+<p>
+  Repository:
+  <a href="https://github.com/JaimilKothari/Jupyter-Notebook" target="_blank">
+    https://github.com/JaimilKothari/Jupyter-Notebook
+  </a>
 </p>
 
 <hr>
